@@ -14,7 +14,7 @@ You need to install latest [nodejs](https://nodejs.org/en) to run the applicatio
 
 npm install
 
-3. Create .env following the format in .env-sample, add the api keys([nextauth](https://next-auth.js.org/), [OpenAI](https://openai.com/) API key, [Replicate](https://replicate.com/) API key , (Stripe)[https://stripe.com/], and database url - use [PlanetScale](https://planetscale.com/) for example)
+3. Create .env following the format in .env-sample, add the api keys [nextauth](https://next-auth.js.org/), [OpenAI](https://openai.com/) API key, [Replicate](https://replicate.com/) API key , [Stripe](https://stripe.com/), and database url - use [PlanetScale](https://planetscale.com/) for example.
 
 4. Go to the project folders, type the following command to run
 
